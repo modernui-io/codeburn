@@ -19,8 +19,6 @@ docs/superpowers/
 /CLAUDE.md
 
 # Config / secrets
-.env
-.env.*
 *.pem
 *.key
 
@@ -43,3 +41,4 @@ desktop/
 
 # WIP / not ready
 src/summit.ts
+config.bat
